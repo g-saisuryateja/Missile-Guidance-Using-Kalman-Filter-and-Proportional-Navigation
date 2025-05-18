@@ -1,1 +1,6 @@
 # Missile-Guidance-Using-Kalman-Filter-and-Proportional-Navigation
+
+Kalman Filter and the
+Proportional Navigation (PN) algorithm are used for missile
+guidance. It is a guidance, navigation, and control (GNC) system
+for a missile.
